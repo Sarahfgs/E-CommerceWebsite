@@ -46,7 +46,7 @@ body {
 
 #collection {
     font-weight: bold;
-    display: grid;h
+    display: grid;
     grid-template-columns: 1fr 1fr;
 }
 
