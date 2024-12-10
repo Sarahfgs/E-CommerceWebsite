@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50814792-0110-431a-979f-4db06b26faed" name="SCRUM-6 Interface d'accueil" comment="SCRUM-6 Interface d'accueil: fix font colors in header" />
+    <list default="true" id="fbac32f9-42f7-4f75-be0c-80f577667d5e" name="SCRUM-22 Compte/connexion utilisateur" comment="SCRUM-22 Compte/connexion utilisateur" />
     <list id="7731b236-f187-4fbf-bd11-520536c8c532" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +42,9 @@
     &quot;accountId&quot;: &quot;e22d4a4f-007e-4a89-8367-b8b6d365a2d5&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -51,24 +54,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;SCRUM-6&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/sfarg/Documents/Cours/A4/Node and React/TD3_1&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;tasks.servers&quot;,
-    &quot;tasks.open.task.update.state.enabled&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/sfarg/Documents/Cours/A4/Node and React/TD3_1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "tasks.servers",
+    "start.from.branch": "master",
+    "tasks.open.task.update.state.enabled": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -88,21 +92,44 @@
       <updated>1733520008648</updated>
       <workItem from="1733516885757" duration="3093000" />
     </task>
-    <task active="true" id="SCRUM-6" summary="Interface d'accueil">
+    <task id="SCRUM-6" summary="Interface d'accueil">
       <branch name="master" repository="C:\Users\sfarg\E-CommerceWebsite" original="true" />
       <branch name="SCRUM-6" repository="C:\Users\sfarg\E-CommerceWebsite" />
-      <changelist id="50814792-0110-431a-979f-4db06b26faed" name="SCRUM-6 Interface d'accueil" comment="" />
+      <changelist id="" name="SCRUM-6 Interface d'accueil" comment="" />
       <created>1730657075974</created>
       <option name="issue" value="true" />
       <url>https://edu-team-software.atlassian.net/browse/SCRUM-6</url>
       <option name="number" value="6" />
       <option name="presentableId" value="SCRUM-6" />
       <option name="project" value="SCRUM" />
-      <updated>1733659511856</updated>
+      <updated>1733827754214</updated>
       <workItem from="1733520008816" duration="642000" />
       <workItem from="1733658031151" duration="2217000" />
       <workItem from="1733755193171" duration="416000" />
-      <workItem from="1733826285260" duration="1201000" />
+      <workItem from="1733826285260" duration="1456000" />
+    </task>
+    <task id="SCRUM-22" summary="Compte/connexion utilisateur">
+      <branch name="master" repository="C:\Users\sfarg\E-CommerceWebsite" original="true" />
+      <branch name="SCRUM-22" repository="C:\Users\sfarg\E-CommerceWebsite" />
+      <changelist id="fbac32f9-42f7-4f75-be0c-80f577667d5e" name="SCRUM-22 Compte/connexion utilisateur" comment="" />
+      <created>1730659600587</created>
+      <option name="issue" value="true" />
+      <url>https://edu-team-software.atlassian.net/browse/SCRUM-22</url>
+      <option name="number" value="22" />
+      <option name="presentableId" value="SCRUM-22" />
+      <option name="project" value="SCRUM" />
+      <updated>1733827797451</updated>
+      <workItem from="1733827754484" duration="43000" />
+    </task>
+    <task active="true" id="SCRUM-23" summary="As a user, I can create an account">
+      <created>1730659619548</created>
+      <option name="issue" value="true" />
+      <url>https://edu-team-software.atlassian.net/browse/SCRUM-23</url>
+      <option name="number" value="23" />
+      <option name="presentableId" value="SCRUM-23" />
+      <option name="project" value="SCRUM" />
+      <updated>1733827797451</updated>
+      <workItem from="1733827797518" duration="2840000" />
     </task>
     <option name="localTasksCounter" value="3" />
     <option name="searchClosedTasks" value="true" />
@@ -137,6 +164,7 @@
     <MESSAGE value="SCRUM-6 Interface d'accueil: resolve missing links and files" />
     <MESSAGE value="SCRUM-6 Interface d'accueil: resolve duplicate id references in slider.html" />
     <MESSAGE value="SCRUM-6 Interface d'accueil: fix font colors in header" />
-    <option name="LAST_COMMIT_MESSAGE" value="SCRUM-6 Interface d'accueil: fix font colors in header" />
+    <MESSAGE value="SCRUM-6 Interface d'accueil: #done" />
+    <option name="LAST_COMMIT_MESSAGE" value="SCRUM-6 Interface d'accueil: #done" />
   </component>
 </project>
